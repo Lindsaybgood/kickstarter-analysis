@@ -12,10 +12,11 @@ into the pivot tables is absolute as you will not create the correct table.
 
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcome_vs_Launch](C:\CIP\Excel\Resources\Theater_Outcomes_vs_Launch.png)
+![image](https://user-images.githubusercontent.com/96216509/147887680-0825d30f-8751-49fe-96b4-1e9e081cf5b1.png)
+
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes Based on Goals](C:\CIP\Excel\Resources\Outcomes_vs_Goals.png)
+![image](https://user-images.githubusercontent.com/96216509/147887691-355d40f6-58c9-4e8a-b01d-594cfab27917.png)
 
 
 ## Results
